@@ -11,5 +11,6 @@ public class MyTest {
         Edge myEdge = new Edge(Color.BLACK,myFirstVertex,mySecondVertex,10.6);
         System.out.println("Je possede une sommet \""+myFirstVertex+"\" et un autre sommet \""+mySecondVertex+"\".");
         System.out.println("Je possede egalement une arrete de "+myEdge+" entre les deux.");
+        System.out.println(myFirstVertex+"----"+myEdge+"----"+mySecondVertex);
     }
 }
