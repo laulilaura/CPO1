@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"graphe","l":"Color"},{"p":"graphe","l":"DirectedEdge"},{"p":"graphe","l":"Edge"},{"p":"graphe","l":"EdgeKind"},{"p":"graphe","l":"MyTest"},{"p":"graphe","l":"Vertex"}];updateSearchResults();
